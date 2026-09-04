@@ -1,1 +1,37 @@
 # Box Works
+
+Box Works is a collection of free-use repositories defining development environments that will run as
+local Docker dev containers, GitHub Codespaces, and Google Cloud Shells.
+These environments provide a platform for teaching and mentoring these languages, and also function
+as general sandboxes for programmers to play with.
+While it is always possible and recommended for the long term to construct a local development environment,
+using these virtual containers handles the heavy-lifting for getting started.
+
+Docker and GitHub Codespaces use Visual Studio Code in the browser as the interface to connect with the virtual container.
+Google Cloud Shell uses Code OSS, the open source project that VS Code is built on top of.
+Each Box Works repository initializes a virtual container using Debian Linux, configured with the tools for
+coding and debugging the specific language.
+More information about how VS Code and Code OSS are configured in this environment is available
+here: <a href="https://code.visualstudio.com/docs/devcontainers/containers">https://code.visualstudio.com/docs/devcontainers/containers</a>.
+These environments do support building both server-side and single-page web applications, as the serving ports
+are exposed externally: local for a local Docker container, and across the Internet for a Codespace or Cloud Shell.
+
+These repositories may be freely used as the base for lab environments for specific courses.
+Some of these derivatives may be hosted here at Box Works, others by the course owners in their own organizations.
+
+Supported environments include:
+
+* Ada
+* [C/C++](https://github.com/boxwrx/clang-devbox)
+* Go
+* Java
+* .NET/C#
+* Node.js (JavaScript/TypeScript)
+* PHP
+* Python
+* Ruby
+* Rust
+* Swift
+
+---
+Copyright &copy; 2026 Smallrock Internet Services, Inc. All rights reserved.
