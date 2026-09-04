@@ -23,9 +23,9 @@ Follow these [instructions for setting up a local environment](./local_install.m
 These repositories may be freely used as the base for lab environments for specific courses.
 Some of these derivatives may be hosted here at Box Works, others by the course owners in their own organizations.
 
-Supported environments include:
+This is a work in progress, not every environment has been created yet. Supported environments include:
 
-* Ada
+* [Ada](https://github.com/boxwrx/ada-devgox)
 * [C/C++](https://github.com/boxwrx/clang-devbox)
 * Go
 * Java
