@@ -16,6 +16,10 @@ here: <a href="https://code.visualstudio.com/docs/devcontainers/containers">http
 These environments support building both server-side and single-page web applications, as the serving ports
 are exposed externally: local for a local Docker container, and across the Internet for a Codespace or Cloud Shell.
 
+GitHub Codespace and Google Cloud Shell environments are configured automatically in the cloud.
+Local implementation requires Visual Studio Code and Docker to be installed.
+Follow these [instructions for setting up a local environment](./local_install.md).
+
 These repositories may be freely used as the base for lab environments for specific courses.
 Some of these derivatives may be hosted here at Box Works, others by the course owners in their own organizations.
 
