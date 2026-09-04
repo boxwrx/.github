@@ -2,8 +2,8 @@
 [//]: # "Copyright © 2026 nTier Training. All rights reserved."
 [//]: #
 
-![Banner Light](../.assets/images/banner-light.png#gh-light-mode-only)
-![banner Dark](../.assets/images/banner-dark.png#gh-dark-mode-only)
+![Banner Light](../.assets/images/banner-small-light.png#gh-light-mode-only)
+![banner Dark](../.assets/images/banner-small-dark.png#gh-dark-mode-only)
 
 # Local Application Installation
 
