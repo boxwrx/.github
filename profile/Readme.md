@@ -13,7 +13,7 @@ Each Box Works repository initializes a virtual container using Debian Linux, co
 coding and debugging the specific language.
 More information about how VS Code and Code OSS are configured in this environment is available
 here: <a href="https://code.visualstudio.com/docs/devcontainers/containers">https://code.visualstudio.com/docs/devcontainers/containers</a>.
-These environments do support building both server-side and single-page web applications, as the serving ports
+These environments support building both server-side and single-page web applications, as the serving ports
 are exposed externally: local for a local Docker container, and across the Internet for a Codespace or Cloud Shell.
 
 These repositories may be freely used as the base for lab environments for specific courses.
@@ -32,6 +32,10 @@ Supported environments include:
 * Ruby
 * Rust
 * Swift
+
+## License
+
+The code is licensed under the MIT license. You may use and modify all or part of it as you choose, as long as attribution to the source is provided per the license. See the details in the [license file](./LICENSE.md) or at the [Open Source Initiative](https://opensource.org/licenses/MIT).
 
 ---
 Copyright &copy; 2026 Smallrock Internet Services, Inc. All rights reserved.
