@@ -7,11 +7,11 @@ as general sandboxes for programmers to play with.
 While it is always possible and recommended for the long term to construct a local development environment,
 using these virtual containers handles the heavy-lifting for getting started.
 
-Docker and GitHub Codespaces use Visual Studio Code in the browser as the interface to connect with the virtual container.
-Google Cloud Shell uses Code OSS, the open source project that VS Code is built on top of.
-Each Box Works repository initializes a virtual container using Debian Linux, configured with the tools for
+Docker Development Containers and GitHub Codespaces use Visual Studio Code in the browser as the interface to connect with the virtual environment.
+Google Cloud Shell uses Code OSS, the open source project that VS Code is built on top of, so it is a compatible environment.
+When deployed each repository initializes a virtual container using Debian Linux, configured with the appropriate tools for
 coding and debugging the specific language.
-More information about how VS Code and Code OSS are configured in this environment is available
+More information about how VS Code and Code OSS function in this environment is available
 here: <a href="https://code.visualstudio.com/docs/devcontainers/containers">https://code.visualstudio.com/docs/devcontainers/containers</a>.
 These environments support building both server-side and single-page web applications, as the serving ports
 are exposed externally: local for a local Docker container, and across the Internet for a Codespace or Cloud Shell.
