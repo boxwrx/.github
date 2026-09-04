@@ -1,7 +1,7 @@
 # Box Works
 
 Box Works is a collection of free-use repositories defining development environments that will run as
-local Docker dev containers, GitHub Codespaces, and Google Cloud Shells.
+local Docker Development Containers, GitHub Codespaces, and Google Cloud Shells.
 These environments provide a platform for teaching and mentoring these languages, and also function
 as general sandboxes for programmers to play with.
 While it is always possible and recommended for the long term to construct a local development environment,
