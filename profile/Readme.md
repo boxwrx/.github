@@ -26,7 +26,7 @@ Some of these derivatives may be hosted here at Box Works, others by the course 
 This is a work in progress, not every environment has been created yet. Supported environments include:
 
 * [Ada](https://github.com/boxwrx/ada-devbox)
-* [C/C++](https://github.com/boxwrx/clang-devbox)
+* [C/C++](https://github.com/boxwrx/clang-devbox) - both *gcc* and *Clang* compilers
 * Go
 * Java
 * .NET/C#
