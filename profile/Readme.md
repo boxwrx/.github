@@ -28,7 +28,7 @@ This is a work in progress, not every environment has been created yet. Supporte
 * [Ada](https://github.com/boxwrx/ada-devbox)
 * [C/C++](https://github.com/boxwrx/clang-devbox) - both *gcc* and *Clang* compilers
 * Go
-* Java
+* [Java](https://github.com/boxwrx/java-devbox)
 * .NET/C#
 * Node.js (JavaScript/TypeScript)
 * PHP
