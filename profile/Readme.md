@@ -26,11 +26,13 @@ Some of these derivatives may be hosted here at Box Works, others by the course 
 This is a work in progress, not every environment has been created yet. Supported environments include:
 
 * [Ada](https://github.com/boxwrx/ada-devbox)
-* [C/C++](https://github.com/boxwrx/clang-devbox) - both *gcc* and *Clang* compilers
+* [C/C++](https://github.com/boxwrx/clang-devbox) - both *gcc* and *Clang* compilers available
 * Go
-* [Java](https://github.com/boxwrx/java-devbox)
+* [Java](https://github.com/boxwrx/java-devbox-maven) - Maven build
+* [Java](https://github.com/boxwrx/java-devbox-gradle) - Gradle build
 * .NET/C#
 * Node.js (JavaScript/TypeScript)
+* Perl
 * PHP
 * Python
 * Ruby
