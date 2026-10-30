@@ -34,7 +34,7 @@ This is a work in progress, not every environment has been created yet. Supporte
 * Node.js (JavaScript/TypeScript)
 * Perl
 * PHP
-* Python
+* [Python](https://github.com/boxwrx/python-devbox)
 * Ruby
 * Rust
 * Swift
