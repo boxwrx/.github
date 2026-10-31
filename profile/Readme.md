@@ -47,11 +47,13 @@ sandbox environments above or for installing on classroom computers.
 
 ### Links
 
-* Visual Studio Code is introduced at [https://code.visualstudio.com](https://code.visualstudio.com), and the documentation is at [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs).
+* Visual Studio Code is the browser-based interface to all three of the virtual computing environments: GitHub Codespace,
+Google Cloud Shell, or a locally running Docker container.
+VS Code is introduced at [https://code.visualstudio.com](https://code.visualstudio.com), and the documentation is at [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs).
 
 ### Instructions
 
-* [Local C/C++ development environment instructions](https://github.com/boxwrx/c-dev-env)
+* [Local C/C++ development environment setup](https://github.com/boxwrx/c-dev-env)
 
 ## License
 
