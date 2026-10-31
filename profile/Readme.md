@@ -39,6 +39,20 @@ This is a work in progress, not every environment has been created yet. Supporte
 * Rust
 * Swift
 
+## Resources
+
+These are random resources that may be of use to you.
+Some are links to the instructions for various tools, others are setup instructions derived from building the 
+sandbox environments above or for installing on classroom computers.
+
+### Links
+
+* Visual Studio Code is introduced at [https://code.visualstudio.com](https://code.visualstudio.com), and the documentation is at [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs).
+
+### Instructions
+
+* [Local C/C++ development environment instructions](https://github.com/boxwrx/c-dev-env)
+
 ## License
 
 The code is licensed under the MIT license. You may use and modify all or part of it as you choose, as long as attribution to the source is provided per the license. See the details in the [license file](./LICENSE.md) or at the [Open Source Initiative](https://opensource.org/licenses/MIT).
