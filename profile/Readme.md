@@ -53,7 +53,8 @@ VS Code is introduced at [https://code.visualstudio.com](https://code.visualstud
 
 ### Instructions
 
-* [Local C/C++ development environment setup](https://github.com/boxwrx/c-dev-env)
+* [Essential Git](https://github.com/boxwrx/essential-git) - An introduction to the basics of Git and GitHUb
+* [Local C/C++ development environment setup](https://github.com/boxwrx/c-dev-env) - Build with C/C++ on Windows, macOS, and Debian/Ubuntu Linux
 
 ## License
 
